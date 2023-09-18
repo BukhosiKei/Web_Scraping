@@ -1,2 +1,2 @@
 # Web_Scraping
-web scraping from wikipedia for South Africas companies with the largest revenues, using Python. 
+web scraping from wikipedia for South Africas companies with the largest revenues, using Python. Created a csv.file 
